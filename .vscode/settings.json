@@ -1,0 +1,5 @@
+{
+  "mindcraft.devTarget": {
+    "appRef": "gh:mindcraft-lang/trg-microbit-v2@0.9.1"
+  }
+}
