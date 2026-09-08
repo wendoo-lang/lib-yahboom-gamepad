@@ -25,7 +25,7 @@
   ],
   "targets": {
     "wendoo-lang/trg-microbit-v2": {
-      "packageVersion": "^0.9.1"
+      "packageVersion": "^0.9.11"
     }
   },
   "app": {
